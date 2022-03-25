@@ -1,0 +1,19 @@
+{
+  "name": "dev-ops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablohenrique2001/Dev-Ops.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablohenrique2001/Dev-Ops/issues"
+  },
+  "homepage": "https://github.com/pablohenrique2001/Dev-Ops#readme"
+}
